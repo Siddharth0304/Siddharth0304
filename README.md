@@ -1,6 +1,7 @@
+<head>
 <meta name="description" content="Sai Siddharth Kamlekar - Passionate full-stack developer with expertise in front-end and back-end technologies. Explore my projects and connect with me.">
 <meta name="keywords" content="Sai Siddharth Kamlekar, full-stack developer, web development, front-end, back-end, GitHub, projects, coding, JavaScript, React, Node.js, Siddharth0304">
-   
+</head>   
 <h1 align="center">Hi 👋, I'm Sai Siddharth Kamlekar</h1>
 <h3 align="center">Passionate full-stack developer with expertise in front-end and back-end technologies. I love building robust and scalable web applications.</h3>
 
